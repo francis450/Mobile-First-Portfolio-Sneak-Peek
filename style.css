@@ -24,3 +24,13 @@ body {
     order: 1;
     margin-top: 65px;
   }
+  .logo {
+    align-self: flex-start;
+    font-family: "poppins", sans-serif;
+    height: 25px;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    color: #6070ff;
+    text-decoration: none;
+  }
