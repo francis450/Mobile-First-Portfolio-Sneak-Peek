@@ -107,3 +107,19 @@ body {
 .works{
   background-color: #E5E5E5;
 }
+.card{
+  border: 1px solid #DFE1E6;
+  padding: 16px;
+}
+.card-summary{
+  display: flex;
+  flex-direction: row;
+  
+}
+.counter{
+  height: 8px;
+  width: 8px;
+  left: 67px;
+  top: 12px;
+  border-radius: 0px;
+}
