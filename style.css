@@ -6,7 +6,6 @@ body {
     width: 315px;
     height: 4210px;
     background-color: #fff;
-    background-image: url('img/background.png'); 
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -14,7 +13,10 @@ body {
     display: flex;
     flex-direction: column;
   }
-  
+  .headline{
+    background-image: url('img/background.png');
+    background-size: contain;
+  }
   .top-header {
     margin-top: -80px;
     display: flex;
