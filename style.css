@@ -14,8 +14,9 @@ body {
     display: flex;
     flex-direction: column;
   }
+  
   .top-header {
-    margin-top: -20px;
+    margin-top: -80px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
