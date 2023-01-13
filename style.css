@@ -61,3 +61,30 @@ body {
   .icon:enabled {
     transform: rotate(320deg);
   }
+  .header-item img {
+    width: 24px;
+  }
+  .intro {
+    width: 317px;
+    height: 120px;
+    font-family: 'poppins', sans-serif;
+    font-size: 40px;
+    line-height: 52px;
+    color: #172b4d;
+    order: 0;
+    margin-bottom: 45px;
+  }
+  .detail {
+    width: 327px;
+    height: 126px;
+    font-family: 'poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #344563;
+    flex: none;
+    flex-grow: 0;
+    order: 0;
+    margin-bottom: 30px;
+  }
