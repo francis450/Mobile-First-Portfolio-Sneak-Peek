@@ -1,4 +1,16 @@
 body {
     background-color: #172b4d;
 }
-  
+.container {
+    margin: 0 auto;
+    width: 315px;
+    height: 4210px;
+    background-color: #fff;
+    background-image: url('img/background.png'); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+  }
