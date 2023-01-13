@@ -37,3 +37,15 @@ body {
   ul {
     margin-left: -35px;
   }
+  li {
+    list-style-type: none;
+  }
+  .social {
+    display: flex;
+    list-style: none;
+  }
+  
+  .social img {
+    height: 20px;
+    margin-right: 20px;
+  }
