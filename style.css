@@ -7,15 +7,20 @@ body {
     height: 4210px;
     background-color: #fff;
     background-size: contain;
-    background-repeat: no-repeat;
     background-position: center;
-    padding: 30px;
+    padding-top: 30px;
+    padding-left: 5px;
     display: flex;
     flex-direction: column;
   }
   .headline{
     background-image: url('img/background.png');
-    background-size: contain;
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+  .greetings{
+    position: relative;
+    top: 40px;
   }
   .top-header {
     margin-top: -80px;
@@ -115,11 +120,4 @@ body {
   display: flex;
   flex-direction: row;
   
-}
-.counter{
-  height: 8px;
-  width: 8px;
-  left: 67px;
-  top: 12px;
-  border-radius: 0px;
 }
