@@ -20,7 +20,8 @@ body {
   }
   .greetings{
     position: relative;
-    top: 40px;
+    top: 20px;
+    padding: 10px;
   }
   .top-header {
     margin-top: -80px;
