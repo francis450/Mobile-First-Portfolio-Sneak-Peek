@@ -1,0 +1,22 @@
+{
+  "name": "mobile-first-portfolio-sneak-peek",
+  "version": "1.0.0",
+  "description": "My portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francis450/Mobile-First-Portfolio-Sneak-Peek.git"
+  },
+  "author": "Francis Njoroge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francis450/Mobile-First-Portfolio-Sneak-Peek/issues"
+  },
+  "homepage": "https://github.com/francis450/Mobile-First-Portfolio-Sneak-Peek#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
